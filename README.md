@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://i.imgur.com/PUPMTop.gif" width="400px" align="right" alt="Computer">
+<h1 align="center">Hi, I'm Jaelyson Martins <img width="50px" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> (JotaMPê)</h1>
+<h3 align="center">I'm Computer engineering student in Instituto Federal do Ceará</h3>
+<h3 align="center">and a full-stack developer since 2014</h3>
 
-<!--
-**JaelysonM/JaelysonM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<li align="left"><img align="center" width="30px" src="https://cdn.dribbble.com/users/4706493/screenshots/12030660/media/28c94bdba213eece520cc42e958078f9.gif"> <strong>I’m currently working at UzmStudio Inc and IFCE</strong></li>
+<li align="left"><img align="center" width="23px" src="https://pro2-bar-s3-cdn-cf.myportfolio.com/39d6472b8673d0fa5bf265b5b08caebc/be1a760a-e546-4411-950c-91794b07930a_rw_600.gif"> <strong>I’m currently learning TypeScript and another features</strong></li>
+<li align="left"><img align="center" width="22px" src="http://fulltimetrade.com.br/wp-content/uploads/2020/08/source.gif"> <strong>Ask me about Java, TypeScript, JavaScript, php, Python, Node.js and React Frameworks</strong></li>
+<li align="left">⚡ <strong>Fun fact: I'm a space entusiast!</strong></li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/280474473856237569)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jaelysonmartins@gmail.com?subject=Hello%22)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JaelysonMartins)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaelysonm)
+###
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaelysonM&layout=compact&theme=dracula&hide_title=true&langs_count=10)
+
+###
+
+[![JaelysonM status](https://github-readme-stats.vercel.app/api?username=JaelysonM&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/JaelysonM/)
