@@ -13,7 +13,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/280474473856237569)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jaelysonmartins@gmail.com?subject=Hello%22)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JaelysonMartins)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaelysonm)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaelysonm/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaelyson-martins-2470b6195/)
 ###
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaelysonM&layout=compact&theme=dracula&hide_title=true&langs_count=10)
