@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/PUPMTop.gif" width="400px" align="right" alt="Computer">
 <h1 align="center">Hi, I'm Jaelyson Martins <img width="50px" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> (JotaMPê)</h1>
-<h3 align="center">I'm Computer engineering student in Instituto Federal do Ceará</h3>
-<h3 align="center">and a full-stack developer since 2014</h3>
+<h3 align="center">I'm Computer engineering student in Instituto Federal do Ceará and Full-cycle Developer</h3>
+<h3 align="center">and a developer since 2014</h3>
 
 
 <li align="left"><img align="center" width="30px" src="https://cdn.dribbble.com/users/4706493/screenshots/12030660/media/28c94bdba213eece520cc42e958078f9.gif"> <strong>I’m currently working at EMPRAPII as Backend Developer</strong></li>
