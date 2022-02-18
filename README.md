@@ -4,7 +4,7 @@
 <h3 align="center">and a developer since 2014</h3>
 
 
-<li align="left"><img align="center" width="30px" src="https://cdn.dribbble.com/users/4706493/screenshots/12030660/media/28c94bdba213eece520cc42e958078f9.gif"> <strong>I’m currently working at EMPRAPII as Backend Developer</strong></li>
+<li align="left"><img align="center" width="30px" src="https://cdn.dribbble.com/users/4706493/screenshots/12030660/media/28c94bdba213eece520cc42e958078f9.gif"> <strong>I’m currently working at EMPRAPII as Full Software Engineer</strong></li>
 <li align="left"><img align="center" width="23px" src="https://pro2-bar-s3-cdn-cf.myportfolio.com/39d6472b8673d0fa5bf265b5b08caebc/be1a760a-e546-4411-950c-91794b07930a_rw_600.gif"> <strong>I’m currently learning Python and your frameworks (Django, Flask)</strong></li>
 <li align="left"><img align="center" width="22px" src="http://fulltimetrade.com.br/wp-content/uploads/2020/08/source.gif"> <strong>Ask me about front-end and back-end programming and DevOps.</strong></li>
 <li align="left">⚡ <strong>Fun fact: I'm a space and IA entusiast!</strong></li>
