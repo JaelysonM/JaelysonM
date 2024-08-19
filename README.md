@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/PUPMTop.gif" width="400" align="right" alt="Computer">
-<h1 align="center">Hi, I'm Jaelyson Martins <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> (JotaMPê)</h1>
+<h1 align="center">Hi, I'm Jaelyson Martins <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"></h1>
 <h3 align="center">I'm Computer engineering student in Instituto Federal do Ceará and Software Engineer</h3>
 <h3 align="center">and a developer since 2014</h3>
 
